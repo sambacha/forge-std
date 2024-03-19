@@ -1,1 +1,2 @@
-src/Vm.sol linguist-generated
+# -*- mode: gitattributes; -*-
+src/Vm.sol linguist-generated=true
